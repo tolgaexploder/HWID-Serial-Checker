@@ -1,77 +1,53 @@
 # HWID-Serial-Checker
 
-    Operating System Information & Serial Number
-        Retrieves OS details like Caption, CSDVersion, OSArchitecture, and Version.
-        Retrieves the OS Serial Number.
+   System Information Features:
 
-    Computer System Information & Name
-        Retrieves computer system information including Manufacturer, Model, and SystemType.
-        Retrieves the computer's name.
+    Operating System Details: Retrieve information about your operating system, including its name, version, architecture, and service pack.
 
-    Motherboard Information
-        Retrieves details about the motherboard, including Product, Manufacturer, and Version.
+    Computer System Info: Get insights into your computer's manufacturer, model, and system type.
 
-    User Account Information
-        Retrieves user account information such as Name and Status.
+    Motherboard Insights: Learn about your computer's motherboard, including its product, manufacturer, and version.
 
-    BIOS Serial Number
-        Retrieves the BIOS Serial Number.
+    User Account Info: Retrieve details about user accounts, such as their names and statuses.
 
-    Physical Media Serial Numbers
-        Retrieves serial numbers of physical media.
+    BIOS Serial Number: Access the BIOS serial number for your system.
 
-    CPU Name, CPU Serial Number & Processor ID
-        Retrieves CPU details including Name, Serial Number, and Processor ID.
+    Physical Media Serials: Retrieve serial numbers for various physical media components.
 
-    Baseboard Serial Number & UUID
-        Retrieves the Baseboard Serial Number.
-        Retrieves the System UUID.
+    CPU Details: Find out your CPU's name, serial number, and processor ID.
 
-    SMBIOS Number
-        Retrieves the SMBIOS Number.
+    Baseboard Information: Get your motherboard's serial number and system UUID.
 
-    System UUID
-        Retrieves the System UUID.
+    SMBIOS Number: Retrieve the SMBIOS (System Management BIOS) number for your computer.
 
-    Memory Chip Serial Numbers
-        Retrieves serial numbers of memory chips.
+Peripheral and Hardware Features:
 
-    Desktop Monitor Information
-        Retrieves information about desktop monitors.
+    Memory Chip Serials: Get serial numbers of installed memory chips.
 
-    Network Adapter MAC Addresses
-        Retrieves MAC addresses of network adapters.
+    Monitor Details: Retrieve information about connected desktop monitors.
 
-    Printer Information
-        Retrieves printer details including Name, PortName, and DriverName.
+    Network Adapter MACs: Obtain MAC (Media Access Control) addresses for network adapters.
 
-    Sound Device Information
-        Retrieves sound device details like Name and Manufacturer.
+    Printer Information: Get details about installed printers, including their names, port names, and driver names.
 
-    USB Controller Information
-        Retrieves USB controller details including Name and Manufacturer.
+    Sound Device Insights: Learn about your sound devices, including their names and manufacturers.
 
-    Graphics Card Description
-        Retrieves graphics card descriptions.
-        Also includes NVIDIA GPU information using nvidia-smi -L.
+    USB Controller Info: Retrieve details about USB controllers, including their names and manufacturers.
 
-    NIC Serials / MAC
-        Retrieves Network Interface Controller (NIC) details, including MAC addresses and descriptions.
+    Graphics Card Description: Get descriptions of your graphics cards. Additionally, it includes NVIDIA GPU information using 'nvidia-smi -L'.
 
-    ARP Cache
-        Retrieves ARP cache information.
+Network and Connectivity Features:
 
-    Disk Name and Serials
-        Retrieves disk drive details including model and serial number.
+    NIC Serials / MAC: Learn about Network Interface Controller (NIC) devices, including MAC addresses and descriptions.
 
-    Disk Volume Numbers
-        Retrieves volume information for drives C: and D:.
+    ARP Cache Info: Retrieve information from the Address Resolution Protocol (ARP) cache.
 
-    Network Adapter IP Addresses
-        Retrieves IP addresses and MAC addresses of network adapters.
+    Disk Drive Info: Obtain details about your disk drives, including their models and serial numbers.
 
-    Printer Device IDs
-        Retrieves printer details including Name and DeviceID.
+    Disk Volume Numbers: Retrieve information about disk volumes, including those for drives C: and D:.
 
-    IDE Controller Device IDs
-        Retrieves IDE controller details including Name and DeviceID.
+    Network Adapter IP Addresses: Access IP addresses and MAC addresses of network adapters.
+
+    Printer Device IDs: Obtain printer details, including their names and device IDs.
+
+    IDE Controller Device IDs: Retrieve details about IDE controllers, including their names and device IDs.
